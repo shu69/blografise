@@ -1,37 +1,37 @@
 {
   "name": "Blografise",
   "short_name": "Blografise",
-  "start_url": "https://blog.kompirasi.com//",
+  "start_url": "https://blog.kompirasi.com/",
   "display": "standalone",
   "background_color": "#fff",
   "theme_color": "#C51162",
-  "description": "Blog seputar tutorial digital art dan desain grafis serta pengetahuan menarik lainnya di dunia..",
+  "description": "Blog seputar tutorial digital art dan desain grafis serta pengetahuan menarik lainnya di dunia.",
   "icons": [{
-    "src": "https://1.bp.blogspot.com/-7E_1gIsu8Lg/Xw21JkGTyHI/AAAAAAAABpc/n4hzuat6RNskmfne-OwOy623kO5LpcY6QCLcBGAsYHQ/s320/Tanpa%2Bjudul.png",
+    "src": "https://3.bp.blogspot.com/-VW8dO9krJ4g/Xw3DH9xsfGI/AAAAAAAABp4/WF3qBDsS7r0ZFGzuqIZBxIrlisAWBfbIwCLcBGAsYHQ/s1600/favicon-image.png",
     "sizes": "48x48",
     "type": "image/png"
   }, {
-    "src": "https://1.bp.blogspot.com/-7E_1gIsu8Lg/Xw21JkGTyHI/AAAAAAAABpc/n4hzuat6RNskmfne-OwOy623kO5LpcY6QCLcBGAsYHQ/s320/Tanpa%2Bjudul.png",
+    "src": "https://3.bp.blogspot.com/-VW8dO9krJ4g/Xw3DH9xsfGI/AAAAAAAABp4/WF3qBDsS7r0ZFGzuqIZBxIrlisAWBfbIwCLcBGAsYHQ/s1600/favicon-image.png",
     "sizes": "72x72",
     "type": "image/png"
   }, {
-    "src": "https://1.bp.blogspot.com/-7E_1gIsu8Lg/Xw21JkGTyHI/AAAAAAAABpc/n4hzuat6RNskmfne-OwOy623kO5LpcY6QCLcBGAsYHQ/s320/Tanpa%2Bjudul.png",
+    "src": "https://3.bp.blogspot.com/-VW8dO9krJ4g/Xw3DH9xsfGI/AAAAAAAABp4/WF3qBDsS7r0ZFGzuqIZBxIrlisAWBfbIwCLcBGAsYHQ/s1600/favicon-image.png",
     "sizes": "96x96",
     "type": "image/png"
   }, {
-    "src": "https://1.bp.blogspot.com/-7E_1gIsu8Lg/Xw21JkGTyHI/AAAAAAAABpc/n4hzuat6RNskmfne-OwOy623kO5LpcY6QCLcBGAsYHQ/s320/Tanpa%2Bjudul.png",
+    "src": "https://3.bp.blogspot.com/-VW8dO9krJ4g/Xw3DH9xsfGI/AAAAAAAABp4/WF3qBDsS7r0ZFGzuqIZBxIrlisAWBfbIwCLcBGAsYHQ/s1600/favicon-image.png",
     "sizes": "144x144",
     "type": "image/png"
   }, {
-    "src": "https://1.bp.blogspot.com/-7E_1gIsu8Lg/Xw21JkGTyHI/AAAAAAAABpc/n4hzuat6RNskmfne-OwOy623kO5LpcY6QCLcBGAsYHQ/s320/Tanpa%2Bjudul.png",
+    "src": "https://3.bp.blogspot.com/-iTQK4bvSpGI/Xw3Dw56kWOI/AAAAAAAABqA/Qv5XaCSa8NMunwlV7QtqLQjO05DutEEjQCLcBGAsYHQ/s200/blografise.png",
     "sizes": "168x168",
     "type": "image/png"
   }, {
-    "src": "https://1.bp.blogspot.com/-7E_1gIsu8Lg/Xw21JkGTyHI/AAAAAAAABpc/n4hzuat6RNskmfne-OwOy623kO5LpcY6QCLcBGAsYHQ/s320/Tanpa%2Bjudul.png",
+    "src": "https://3.bp.blogspot.com/-iTQK4bvSpGI/Xw3Dw56kWOI/AAAAAAAABqA/Qv5XaCSa8NMunwlV7QtqLQjO05DutEEjQCLcBGAsYHQ/s200/blografise.png",
     "sizes": "192x192",
     "type": "image/png"
   }, {
-    "src": "https://1.bp.blogspot.com/-7E_1gIsu8Lg/Xw21JkGTyHI/AAAAAAAABpc/n4hzuat6RNskmfne-OwOy623kO5LpcY6QCLcBGAsYHQ/s320/Tanpa%2Bjudul.png",
+    "src": "https://3.bp.blogspot.com/-iTQK4bvSpGI/Xw3Dw56kWOI/AAAAAAAABqA/Qv5XaCSa8NMunwlV7QtqLQjO05DutEEjQCLcBGAsYHQ/s200/blografise.png",
     "sizes": "512x512",
     "type": "image/png"
   }]
